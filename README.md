@@ -1,6 +1,6 @@
 # In-depth instructions for installing EspGrid on Windows machines
 
-EspGrid is a powerful tool for synchronising live coding environments over a network and was developed by David Ogborn. Configuration can be a bit tricky on Windows as it requires a few downloads so this is a quick run through of how to get installed and what might go wrong / how to fix it.
+[EspGrid](https://github.com/d0kt0r0/EspGrid) is a powerful tool for synchronising live coding environments over a network and was developed by David Ogborn. Configuration can be a bit tricky on Windows as it requires a few downloads so this is a quick run through of how to get installed and what might go wrong / how to fix it.
 
 # Steps
 
